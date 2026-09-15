@@ -17,7 +17,7 @@ Run all cells sequentially to load the sample data and weights, evaluate forecas
 
 ## Data and Pretrained Weights
 
-Raw observations are available from [https://dkasolarcentre.com.au/download?location=alice-springs].
+Raw observations are available from [DKASC](https://dkasolarcentre.com.au/download?location=alice-springs).
 
 `checkpoints/taxa_as_h96.pth` contains TAXA-Net weights trained on preprocessed observations from the DKASC Alice Springs site from December 2011 to November 2014.
 
